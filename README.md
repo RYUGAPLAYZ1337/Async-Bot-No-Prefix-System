@@ -1,4 +1,4 @@
 # Async-Bot-No-Prefix-System
--** It is Just a no prefix code which you can add to your code file to add no prefix feature in your bot**
--Made By** Ghosty X Sanemi **
+- It is Just a no prefix code which you can add to your code file to add no prefix feature in your bot
+-Made By Ghosty X Sanemi 
 -Give Credit
