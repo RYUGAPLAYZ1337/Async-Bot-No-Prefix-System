@@ -1,5 +1,5 @@
 # Async-Bot-No-Prefix-System
--Made By Ghosty X Sanemi \n
+-Made By Ghosty X Sanemi 
 
 
 
